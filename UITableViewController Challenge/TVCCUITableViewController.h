@@ -1,5 +1,5 @@
 //
-//  TVCCViewController.h
+//  TVCCUITableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Jose Manuel Ramirez Martinez on 14/09/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TVCCViewController : UIViewController
+@interface TVCCUITableViewController : UITableViewController
 
 @end
