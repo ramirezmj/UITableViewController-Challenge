@@ -2,4 +2,4 @@
 # Traininig project
 Playing with UITableViewDataSource delegate.
 
-![alt text](https://github.com/ramirezmj/UITableViewController-Challenge/ "UITableView")
+![UITableView](UITableViewController Challenge/demo.png)
