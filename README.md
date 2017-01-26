@@ -1,4 +1,4 @@
-# UITableViewController-Challenge - iOS Programming: The Big Nerd Ranch Guide (4th Edition)
+# UITableViewController-Challenge - The Bitfountain iOS 7 Immersive
 # Traininig project
 Playing with UITableViewDataSource delegate.
 
